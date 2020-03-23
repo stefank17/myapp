@@ -1,0 +1,139 @@
+/* You can add styles here */
+
+#logo {
+    height: 2.5em;
+    width: 2.5em;
+}
+
+.container {
+    margin-bottom: 50px;
+}
+
+.bubble-container {
+    margin-top: 50px;
+}
+
+.btn {
+    margin: 20px 10px 10px 10px;
+    float: right;
+}
+
+.bundle-container {
+    margin-top: 50px;
+}
+
+#about-logo {
+    height: 10em;
+    width: 10em;
+    float: right;
+    margin: 20px;
+}
+
+.about-us {
+    margin-top: 50px;
+    width: 80%;
+}
+
+
+.about-us h1 {
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+ul {
+    list-style: none;
+}
+
+li a {
+    color: white !important;
+    
+}
+
+ul.navlinks li {
+    display: inline-block;
+    padding-right: 10px;
+    vertical-align: middle;
+    font-size: x-large;
+}
+
+.nav-container {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 1200px;
+}
+
+.list-img {
+    height: 100px;
+    width: 100px;
+    display: flex;
+}
+
+.details-img{
+    height: 400px;
+    width: 400px;
+    display: flex;
+}
+
+.img-container{
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-product {
+    flex: 1 0 25%;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.bubble-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.info-wrap {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.info-wrap a {
+    color: black !important;
+}
+
+.home-container {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn-primary a {
+    color: white;
+}
+
+.checkout-btns {
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn-checkout {
+    width: 48%;
+    float: unset;
+}
+
+.cart-btns {
+    float: right;
+    display: flex;
+    flex-direction: column;
+}
